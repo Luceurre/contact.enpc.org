@@ -3,7 +3,7 @@ import ssl
 import smtplib
 
 port = 465  # For SSL
-password = 'aizahC6g'
+password = ''
 host = 'boyer2.enpc.fr'
 user = 'clubinfo@enpc.fr'
 
